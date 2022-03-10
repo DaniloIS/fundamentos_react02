@@ -1,0 +1,9 @@
+.violet {
+    background-color: darkviolet;
+    color: #fff;
+    height: 100%;
+}
+
+.violet h1 {
+    margin: 0;
+}
