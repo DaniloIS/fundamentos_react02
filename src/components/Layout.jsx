@@ -12,10 +12,6 @@ export default function Layout(props) {
                     <Link href='/'>
                         Voltar
                     </Link>
-
-                    <Link href='/style' >
-                        Estilo
-                    </Link>
                 </div>
             </div>
 
